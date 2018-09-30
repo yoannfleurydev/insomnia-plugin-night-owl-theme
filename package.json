@@ -1,0 +1,14 @@
+{
+  "name": "insomnia-plugin-night-owl-theme",
+  "version": "1.0.0",
+  "description": "Night Owl VS Code theme for Insomnia",
+  "homepage": "https://github.com/yoannfleurydev/insomnia-plugin-night-owl-theme",
+  "repository": "https://github.com/yoannfleurydev/insomnia-plugin-night-owl-theme.git",
+  "main": "index.js",
+  "insomnia": {
+    "name": "insomnia-plugin-night-owl-theme",
+    "description": "Night Owl VS Code theme for Insomnia"
+  },
+  "author": "Yoann Fleury <yoann.fleury@yahoo.com>",
+  "license": "MIT"
+}
