@@ -12,13 +12,13 @@ module.exports = {
       info: '#82AAFF'
     },
     foreground: {
-      default: '#d6deeb',
-      success: '#d6deeb',
-      notice: '#d6deeb',
-      warning: '#d6deeb',
-      danger: '#d6deeb',
-      surprise: '#d6deeb',
-      info: '#d6deeb'
+      default: '#D6DEEB',
+      success: '#D6DEEB',
+      notice: '#D6DEEB',
+      warning: '#D6DEEB',
+      danger: '#D6DEEB',
+      surprise: '#D6DEEB',
+      info: '#D6DEEB'
     },
     highlight: {
       default: 'rgba(114, 145, 143, 1)',
@@ -33,16 +33,6 @@ module.exports = {
       link: {
         foreground: {
           default: '#68a9a2'
-        }
-      },
-      paneHeader: {
-        background: {
-          success: '#ADDB67',
-          notice: '#e6b564',
-          warning: '#e27164',
-          danger: '#d64b66',
-          surprise: '#b482d6',
-          info: '#6c93d8'
         }
       },
       sidebarHeader: {
